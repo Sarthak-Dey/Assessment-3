@@ -1,0 +1,14 @@
+.header{
+    height: 70vh;
+    width: 85%;
+    margin: 30px 250px;
+    border-radius: 30px;
+    position:relative;
+}
+
+.header img{
+    height: 70vh;
+    width: 80%;
+    border-radius: 30px;
+    object-fit: cover;
+}
